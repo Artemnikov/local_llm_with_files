@@ -1,0 +1,6 @@
+langchain
+huggingface_hub
+faiss-cpu
+sentence-transformers
+transformers
+torch
